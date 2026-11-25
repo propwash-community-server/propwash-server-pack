@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:block/thin_block",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "minecraft:block/worn_drone_net",
+    "net": "minecraft:block/worn_drone_net"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        1.5,
+        0
+      ],
+      "to": [
+        16,
+        1.5,
+        16
+      ],
+      "faces": {
+        "up": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#net"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#net"
+        }
+      }
+    }
+  ]
+}

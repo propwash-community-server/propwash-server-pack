@@ -1,0 +1,18 @@
+{
+  "block.drone_net.place": {
+    "subtitle": "subtitles.propwash.drone_net.place",
+    "sounds": [
+      "propwash:block/drone_net/place1",
+      "propwash:block/drone_net/place2",
+      "propwash:block/drone_net/place3"
+    ]
+  },
+  "block.drone_net.break": {
+    "subtitle": "subtitles.propwash.drone_net.break",
+    "sounds": [
+      "propwash:block/drone_net/break1",
+      "propwash:block/drone_net/break2",
+      "propwash:block/drone_net/break3"
+    ]
+  }
+}

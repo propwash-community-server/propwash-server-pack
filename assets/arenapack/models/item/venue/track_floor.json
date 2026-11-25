@@ -1,0 +1,1 @@
+{"textures":{"0":"arenapack:item/venue/track_floor","particle":"arenapack:item/venue/track_floor"},"elements":[{"from":[-14.0487,8.0441,-2.1056],"to":[30.0487,8.0441,18.1056],"faces":{"up":{"uv":[0.01562,0.03571,15.01562,15.75],"texture":"#0"}},"rotation":{"origin":[8.0,8.0441,8.0],"x":-180.0,"y":-0.0,"z":180.0}}]}

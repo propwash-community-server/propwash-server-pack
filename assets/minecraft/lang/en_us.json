@@ -1,0 +1,10 @@
+{
+  "block.minecraft.oxidized_copper_bars": "Drone Net",
+  "block.minecraft.copper_bars": "Worn Drone Net",
+  "block.minecraft.waxed_copper_bars": "Torn Drone Net",
+  "block.minecraft.copper_trapdoor": "Flat Drone Net",
+  "block.minecraft.exposed_copper_trapdoor": "Worn Flat Drone Net",
+  "block.minecraft.weathered_copper_trapdoor": "Torn Flat Drone Net",
+  "subtitles.propwash.drone_net.place": "Drone net placed",
+  "subtitles.propwash.drone_net.break": "Drone net broken"
+}

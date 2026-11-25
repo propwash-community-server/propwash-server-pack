@@ -1,0 +1,1208 @@
+{
+ "grain.kaze.000": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_000",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.001": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_001",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.002": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_002",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.003": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_003",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.004": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_004",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.005": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_005",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.006": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_006",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.007": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_007",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.008": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_008",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.009": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_009",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.010": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_010",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.011": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_011",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.012": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_012",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.013": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_013",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.014": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_014",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.015": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_015",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.016": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_016",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.017": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_017",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.018": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_018",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.019": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_019",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.020": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_020",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.021": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_021",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.022": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_022",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.023": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_023",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.024": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_024",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.025": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_025",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.026": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_026",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.027": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_027",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.028": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_028",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.029": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_029",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.030": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_030",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.031": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_031",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.032": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_032",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.033": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_033",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.034": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_034",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.035": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_035",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.036": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_036",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.037": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_037",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.038": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_038",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.039": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_039",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.040": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_040",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.041": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_041",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.042": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_042",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.043": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_043",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.044": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_044",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.045": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_045",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.046": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_046",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.047": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_047",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.048": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_048",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.049": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_049",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.050": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_050",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.051": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_051",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.052": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_052",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.053": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_053",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.054": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_054",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.055": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_055",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.056": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_056",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.057": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_057",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.058": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_058",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.059": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_059",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.060": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_060",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.061": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_061",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.062": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_062",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.063": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_063",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.064": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_064",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.065": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_065",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.kaze.066": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/kaze_066",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.000": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_000",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.001": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_001",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.002": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_002",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.003": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_003",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.004": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_004",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.005": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_005",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.006": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_006",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.007": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_007",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.008": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_008",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.009": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_009",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.010": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_010",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.011": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_011",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.012": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_012",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.013": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_013",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.014": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_014",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.015": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_015",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.016": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_016",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.017": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_017",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.018": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_018",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.019": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_019",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.020": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_020",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.021": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_021",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.022": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_022",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.023": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_023",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.024": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_024",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.025": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_025",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.026": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_026",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.027": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_027",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.028": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_028",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.029": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_029",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.030": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_030",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.031": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_031",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.032": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_032",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.033": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_033",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.034": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_034",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.035": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_035",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.036": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_036",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.037": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_037",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.038": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_038",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.039": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_039",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.040": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_040",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.041": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_041",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.042": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_042",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.043": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_043",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.044": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_044",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.045": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_045",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.046": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_046",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.047": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_047",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.048": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_048",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.049": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_049",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.050": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_050",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.051": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_051",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.052": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_052",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.053": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_053",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.054": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_054",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.055": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_055",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.056": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_056",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.057": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_057",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.058": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_058",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.059": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_059",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.060": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_060",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.061": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_061",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.062": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_062",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.063": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_063",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.064": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_064",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.065": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_065",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ },
+ "grain.onyx.066": {
+  "sounds": [
+   {
+    "name": "driftgen:grain/onyx_066",
+    "preload": true,
+    "attenuation_distance": 8
+   }
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+  "parent": "minecraft:block/thin_block",
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "minecraft:block/worn_drone_net",
+    "net": "minecraft:block/worn_drone_net"
+  },
+  "elements": [
+    {
+      "from": [
+        0,
+        0,
+        14.5
+      ],
+      "to": [
+        16,
+        16,
+        14.5
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#net"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            16,
+            16
+          ],
+          "texture": "#net"
+        }
+      }
+    }
+  ]
+}

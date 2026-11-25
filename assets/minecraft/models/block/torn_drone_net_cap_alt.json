@@ -1,0 +1,7 @@
+{
+  "ambientocclusion": false,
+  "textures": {
+    "particle": "minecraft:block/torn_drone_net"
+  },
+  "elements": []
+}

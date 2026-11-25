@@ -1,0 +1,3705 @@
+{
+ "amb.cheer.big": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:amb/cheer_big",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ },
+ "amb.cheer.medium": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:amb/cheer_medium",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ },
+ "amb.cheer.small": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:amb/cheer_small",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ },
+ "amb.crowd": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:amb/crowd_loop",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ },
+ "amb.gong": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "arenapack:amb/gong",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ },
+ "lap.bike1.00.070": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_070",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.071": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_071",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.072": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_072",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.073": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_073",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.074": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_074",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.075": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_075",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.076": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_076",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.00.078": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_00_078",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.078": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_078",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.079": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_079",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.080": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_080",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.081": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_081",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.082": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_082",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.01.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_01_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.02.082": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_02_082",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.02.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_02_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.02.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_02_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.02.085": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_02_085",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.02.086": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_02_086",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.02.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_02_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.086": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_086",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.089": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_089",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.090": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_090",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.091": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_091",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.03.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_03_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.091": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_091",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.094": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_094",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.095": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_095",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.096": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_096",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.04.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_04_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.096": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_096",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.099": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_099",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.100": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_100",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.05.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_05_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.103": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_103",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.104": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_104",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.06.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_06_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.108": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_108",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.109": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_109",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.110": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_110",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.07.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_07_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.08.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_08_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.08.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_08_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.08.113": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_08_113",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.08.114": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_08_114",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.08.115": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_08_115",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.08.116": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_08_116",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.115": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_115",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.116": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_116",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.117": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_117",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.118": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_118",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.119": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_119",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.120": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_120",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.09.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_09_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.120": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_120",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.122": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_122",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.123": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_123",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.124": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_124",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.125": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_125",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.10.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_10_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.128": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_128",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.129": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_129",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.130": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_130",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.131": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_131",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.11.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_11_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.131": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_131",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.133": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_133",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.134": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_134",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.135": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_135",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.12.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_12_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.13.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_13_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.13.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_13_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.13.138": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_13_138",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.13.139": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_13_139",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.13.140": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_13_140",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike1.13.141": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike1/bike1_13_141",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.070": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_070",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.071": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_071",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.072": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_072",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.073": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_073",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.074": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_074",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.075": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_075",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.076": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_076",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.00.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_00_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.075": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_075",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.076": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_076",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.078": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_078",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.079": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_079",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.080": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_080",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.081": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_081",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.082": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_082",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.01.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_01_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.02.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_02_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.02.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_02_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.02.085": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_02_085",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.02.086": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_02_086",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.02.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_02_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.02.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_02_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.089": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_089",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.090": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_090",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.091": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_091",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.03.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_03_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.094": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_094",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.095": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_095",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.096": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_096",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.04.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_04_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.05.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_05_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.05.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_05_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.05.099": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_05_099",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.05.100": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_05_100",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.05.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_05_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.05.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_05_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.103": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_103",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.104": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_104",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.06.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_06_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.108": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_108",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.109": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_109",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.110": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_110",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.07.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_07_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.08.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_08_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.08.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_08_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.08.113": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_08_113",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.08.114": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_08_114",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.08.115": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_08_115",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.08.116": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_08_116",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.115": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_115",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.116": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_116",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.117": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_117",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.118": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_118",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.119": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_119",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.120": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_120",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.09.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_09_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.120": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_120",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.122": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_122",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.123": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_123",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.124": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_124",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.125": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_125",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.10.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_10_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.125": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_125",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.128": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_128",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.129": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_129",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.130": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_130",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.131": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_131",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.11.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_11_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.131": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_131",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.133": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_133",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.134": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_134",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.135": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_135",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.12.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_12_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.13.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_13_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.13.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_13_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.13.138": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_13_138",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.13.139": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_13_139",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.13.140": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_13_140",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike2.13.141": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike2/bike2_13_141",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.071": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_071",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.072": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_072",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.073": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_073",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.074": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_074",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.075": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_075",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.076": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_076",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.00.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_00_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.076": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_076",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.078": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_078",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.079": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_079",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.080": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_080",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.081": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_081",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.082": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_082",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.01.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_01_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.02.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_02_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.02.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_02_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.02.085": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_02_085",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.02.086": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_02_086",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.02.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_02_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.02.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_02_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.089": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_089",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.090": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_090",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.091": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_091",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.03.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_03_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.094": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_094",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.095": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_095",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.096": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_096",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.04.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_04_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.099": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_099",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.100": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_100",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.05.103": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_05_103",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.103": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_103",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.104": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_104",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.06.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_06_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.108": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_108",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.109": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_109",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.110": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_110",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.07.113": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_07_113",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.113": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_113",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.114": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_114",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.115": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_115",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.116": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_116",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.117": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_117",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.08.118": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_08_118",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.09.117": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_09_117",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.09.118": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_09_118",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.09.119": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_09_119",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.09.120": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_09_120",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.09.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_09_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.09.122": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_09_122",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.122": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_122",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.123": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_123",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.124": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_124",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.125": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_125",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.10.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_10_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.128": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_128",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.129": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_129",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.130": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_130",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.131": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_131",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.133": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_133",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.11.134": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_11_134",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.12.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_12_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.12.133": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_12_133",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.12.134": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_12_134",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.12.135": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_12_135",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.12.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_12_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.12.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_12_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.138": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_138",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.139": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_139",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.140": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_140",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.141": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_141",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.142": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_142",
+    "preload": true
+   }
+  ]
+ },
+ "lap.bike3.13.143": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/bike3/bike3_13_143",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.00.069": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_00_069",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.00.070": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_00_070",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.00.071": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_00_071",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.00.072": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_00_072",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.00.073": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_00_073",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.072": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_072",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.073": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_073",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.074": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_074",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.075": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_075",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.076": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_076",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.077": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_077",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.078": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_078",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.01.079": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_01_079",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.078": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_078",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.079": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_079",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.080": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_080",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.081": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_081",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.082": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_082",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.02.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_02_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.083": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_083",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.084": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_084",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.085": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_085",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.086": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_086",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.087": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_087",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.03.089": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_03_089",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.088": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_088",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.089": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_089",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.090": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_090",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.091": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_091",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.092": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_092",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.04.094": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_04_094",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.05.093": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_05_093",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.05.094": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_05_094",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.05.095": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_05_095",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.05.096": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_05_096",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.05.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_05_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.05.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_05_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.097": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_097",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.098": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_098",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.099": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_099",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.100": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_100",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.101": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_101",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.06.103": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_06_103",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.07.102": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_07_102",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.07.103": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_07_103",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.07.104": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_07_104",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.07.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_07_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.07.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_07_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.07.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_07_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.105": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_105",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.106": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_106",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.107": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_107",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.108": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_108",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.109": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_109",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.110": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_110",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.08.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_08_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.111": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_111",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.112": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_112",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.113": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_113",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.114": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_114",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.115": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_115",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.116": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_116",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.117": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_117",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.09.118": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_09_118",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.117": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_117",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.118": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_118",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.119": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_119",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.120": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_120",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.121": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_121",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.122": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_122",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.10.123": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_10_123",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.122": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_122",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.123": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_123",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.124": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_124",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.125": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_125",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.126": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_126",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.11.128": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_11_128",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.127": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_127",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.128": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_128",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.129": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_129",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.130": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_130",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.131": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_131",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.132": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_132",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.133": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_133",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.12.134": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_12_134",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.133": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_133",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.134": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_134",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.135": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_135",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.136": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_136",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.137": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_137",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.138": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_138",
+    "preload": true
+   }
+  ]
+ },
+ "lap.buggy.13.139": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:lap/buggy/buggy_13_139",
+    "preload": true
+   }
+  ]
+ },
+ "sfx.landing.bike": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:sfx/landing_bike_1",
+    "preload": true,
+    "stream": false
+   },
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:sfx/landing_bike_2",
+    "preload": true,
+    "stream": false
+   },
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:sfx/landing_bike_3",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ },
+ "sfx.landing.buggy": {
+  "sounds": [
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:sfx/landing_buggy_1",
+    "preload": true,
+    "stream": false
+   },
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:sfx/landing_buggy_2",
+    "preload": true,
+    "stream": false
+   },
+   {
+    "attenuation_distance": 8,
+    "name": "arenapack:sfx/landing_buggy_3",
+    "preload": true,
+    "stream": false
+   }
+  ]
+ }
+}
